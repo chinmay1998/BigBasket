@@ -1,5 +1,6 @@
 #!/bin/bash
 
+
 NUM=$1
 if [ `expr SUM % 2` -eq 0]
 then
