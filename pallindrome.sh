@@ -1,7 +1,8 @@
 #!/bin/bash
 
 
-
+word=$1
+ULTA=`echo $word | rev`
 
 
 # Even number script
